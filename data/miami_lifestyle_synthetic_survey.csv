@@ -1,0 +1,1001 @@
+respondent_id,age,county,primary_preference,app_interest,weekend_preference,monthly_activity_budget
+1,33,Miami-Dade County,Fitness,Low,Nighttime,392
+2,34,Miami-Dade County,Fitness,Low,Daytime,387
+3,32,Miami-Dade County,Fitness,High,Daytime,216
+4,34,Miami-Dade County,Fitness,Low,Nighttime,261
+5,34,Miami-Dade County,Fitness,High,Both,80
+6,31,Miami-Dade County,Fitness,Medium,Daytime,123
+7,32,Miami-Dade County,Fitness,High,Nighttime,306
+8,32,Miami-Dade County,Trips Outside Miami,Low,Daytime,177
+9,32,Miami-Dade County,Fitness,Low,Both,287
+10,34,Miami-Dade County,Beach,Medium,Daytime,344
+11,33,Miami-Dade County,Beach,Medium,Both,367
+12,32,Miami-Dade County,Nightlife,High,Daytime,350
+13,35,Miami-Dade County,Fitness,High,Daytime,219
+14,34,Miami-Dade County,Beach,High,Daytime,316
+15,31,Miami-Dade County,Nightlife,High,Daytime,151
+16,33,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,234
+17,35,Miami-Dade County,Trips Outside Miami,High,Daytime,269
+18,35,Miami-Dade County,Fitness,Low,Both,347
+19,31,Miami-Dade County,Fitness,Medium,Daytime,400
+20,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,186
+21,34,Miami-Dade County,Nightlife,High,Daytime,311
+22,30,Miami-Dade County,Beach,Low,Daytime,121
+23,33,Miami-Dade County,Day Weekend Activities,Low,Daytime,269
+24,31,Miami-Dade County,Fitness,High,Daytime,218
+25,35,Miami-Dade County,Trips Outside Miami,Medium,Daytime,182
+26,34,Miami-Dade County,Fitness,Medium,Daytime,250
+27,33,Miami-Dade County,Beach,High,Nighttime,352
+28,30,Miami-Dade County,Beach,High,Nighttime,300
+29,30,Miami-Dade County,Beach,High,Daytime,292
+30,32,Miami-Dade County,Fitness,High,Daytime,135
+31,32,Miami-Dade County,Fitness,High,Both,181
+32,31,Miami-Dade County,Day Weekend Activities,High,Nighttime,271
+33,33,Miami-Dade County,Fitness,High,Nighttime,389
+34,33,Miami-Dade County,Day Weekend Activities,High,Daytime,279
+35,35,Miami-Dade County,Fitness,Low,Both,312
+36,35,Miami-Dade County,Beach,High,Both,306
+37,35,Miami-Dade County,Beach,Low,Nighttime,218
+38,32,Miami-Dade County,Fitness,High,Both,384
+39,33,Miami-Dade County,Beach,High,Daytime,228
+40,33,Miami-Dade County,Fitness,High,Daytime,194
+41,30,Miami-Dade County,Fitness,High,Both,142
+42,32,Miami-Dade County,Nightlife,High,Both,183
+43,34,Miami-Dade County,Beach,Medium,Daytime,235
+44,32,Miami-Dade County,Trips Outside Miami,High,Daytime,352
+45,34,Miami-Dade County,Fitness,Medium,Daytime,85
+46,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,226
+47,31,Miami-Dade County,Trips Outside Miami,High,Both,263
+48,33,Miami-Dade County,Day Weekend Activities,High,Nighttime,107
+49,30,Miami-Dade County,Beach,Medium,Daytime,117
+50,33,Miami-Dade County,Beach,High,Daytime,198
+51,35,Miami-Dade County,Beach,High,Daytime,372
+52,31,Miami-Dade County,Nightlife,Low,Daytime,323
+53,31,Miami-Dade County,Trips Outside Miami,High,Nighttime,147
+54,30,Miami-Dade County,Nightlife,Medium,Both,293
+55,31,Miami-Dade County,Fitness,Low,Both,297
+56,34,Miami-Dade County,Day Weekend Activities,High,Daytime,256
+57,31,Miami-Dade County,Nightlife,High,Both,378
+58,33,Miami-Dade County,Fitness,High,Both,243
+59,33,Miami-Dade County,Fitness,High,Both,137
+60,33,Miami-Dade County,Day Weekend Activities,High,Daytime,348
+61,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,387
+62,34,Miami-Dade County,Trips Outside Miami,High,Daytime,137
+63,32,Miami-Dade County,Fitness,High,Daytime,367
+64,35,Miami-Dade County,Trips Outside Miami,Low,Daytime,184
+65,30,Miami-Dade County,Fitness,Medium,Daytime,307
+66,33,Miami-Dade County,Fitness,Medium,Daytime,326
+67,31,Miami-Dade County,Fitness,High,Both,267
+68,33,Miami-Dade County,Trips Outside Miami,Medium,Daytime,162
+69,31,Miami-Dade County,Day Weekend Activities,High,Daytime,265
+70,35,Miami-Dade County,Beach,High,Both,331
+71,35,Miami-Dade County,Beach,High,Both,317
+72,35,Miami-Dade County,Trips Outside Miami,Low,Both,263
+73,31,Miami-Dade County,Beach,High,Both,363
+74,33,Miami-Dade County,Trips Outside Miami,High,Nighttime,289
+75,35,Miami-Dade County,Beach,High,Both,383
+76,34,Miami-Dade County,Beach,High,Daytime,375
+77,31,Miami-Dade County,Beach,Medium,Daytime,176
+78,31,Miami-Dade County,Fitness,Medium,Daytime,287
+79,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,216
+80,31,Miami-Dade County,Beach,High,Daytime,263
+81,31,Miami-Dade County,Fitness,High,Nighttime,155
+82,35,Miami-Dade County,Trips Outside Miami,High,Both,366
+83,33,Miami-Dade County,Beach,High,Nighttime,221
+84,35,Miami-Dade County,Beach,High,Daytime,316
+85,35,Miami-Dade County,Nightlife,Medium,Both,104
+86,33,Miami-Dade County,Day Weekend Activities,High,Nighttime,369
+87,30,Miami-Dade County,Fitness,High,Daytime,146
+88,35,Miami-Dade County,Nightlife,High,Nighttime,329
+89,34,Miami-Dade County,Day Weekend Activities,High,Daytime,197
+90,34,Miami-Dade County,Beach,High,Daytime,152
+91,31,Miami-Dade County,Fitness,Low,Both,361
+92,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,89
+93,31,Miami-Dade County,Day Weekend Activities,Low,Daytime,290
+94,30,Miami-Dade County,Beach,High,Both,231
+95,33,Miami-Dade County,Trips Outside Miami,High,Both,84
+96,33,Miami-Dade County,Trips Outside Miami,High,Daytime,274
+97,33,Miami-Dade County,Fitness,High,Daytime,362
+98,34,Miami-Dade County,Fitness,Medium,Daytime,192
+99,30,Miami-Dade County,Fitness,High,Nighttime,350
+100,34,Miami-Dade County,Day Weekend Activities,High,Daytime,242
+101,34,Miami-Dade County,Fitness,High,Daytime,184
+102,30,Miami-Dade County,Beach,High,Both,260
+103,30,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,123
+104,30,Miami-Dade County,Trips Outside Miami,High,Daytime,361
+105,30,Miami-Dade County,Beach,High,Nighttime,254
+106,33,Miami-Dade County,Trips Outside Miami,High,Nighttime,241
+107,32,Miami-Dade County,Fitness,High,Daytime,219
+108,32,Miami-Dade County,Trips Outside Miami,Medium,Daytime,211
+109,30,Miami-Dade County,Fitness,Low,Both,166
+110,32,Miami-Dade County,Beach,Low,Daytime,255
+111,32,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,262
+112,30,Miami-Dade County,Fitness,High,Daytime,208
+113,32,Miami-Dade County,Fitness,Medium,Daytime,325
+114,34,Miami-Dade County,Day Weekend Activities,High,Daytime,168
+115,31,Miami-Dade County,Day Weekend Activities,High,Daytime,145
+116,31,Miami-Dade County,Day Weekend Activities,Medium,Daytime,237
+117,30,Miami-Dade County,Day Weekend Activities,High,Daytime,228
+118,33,Miami-Dade County,Beach,Low,Both,195
+119,30,Miami-Dade County,Fitness,High,Both,293
+120,33,Miami-Dade County,Beach,Medium,Both,373
+121,31,Miami-Dade County,Fitness,Medium,Both,332
+122,30,Miami-Dade County,Nightlife,Low,Daytime,222
+123,35,Miami-Dade County,Day Weekend Activities,Medium,Both,329
+124,34,Miami-Dade County,Beach,Medium,Daytime,381
+125,32,Miami-Dade County,Beach,High,Both,104
+126,33,Miami-Dade County,Nightlife,High,Both,356
+127,35,Miami-Dade County,Fitness,High,Both,149
+128,32,Miami-Dade County,Day Weekend Activities,Medium,Both,192
+129,32,Miami-Dade County,Beach,High,Nighttime,191
+130,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,382
+131,32,Miami-Dade County,Fitness,High,Daytime,170
+132,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,97
+133,35,Miami-Dade County,Nightlife,Medium,Daytime,228
+134,32,Miami-Dade County,Beach,High,Nighttime,306
+135,30,Miami-Dade County,Day Weekend Activities,High,Both,293
+136,34,Miami-Dade County,Nightlife,High,Daytime,230
+137,31,Miami-Dade County,Day Weekend Activities,Low,Both,271
+138,35,Miami-Dade County,Fitness,Medium,Both,119
+139,32,Miami-Dade County,Day Weekend Activities,High,Both,321
+140,30,Miami-Dade County,Day Weekend Activities,High,Both,217
+141,31,Miami-Dade County,Beach,High,Nighttime,259
+142,31,Miami-Dade County,Day Weekend Activities,Medium,Both,279
+143,33,Miami-Dade County,Nightlife,Medium,Both,282
+144,34,Miami-Dade County,Nightlife,High,Daytime,140
+145,32,Miami-Dade County,Beach,High,Daytime,271
+146,30,Miami-Dade County,Fitness,High,Both,84
+147,33,Miami-Dade County,Nightlife,Medium,Daytime,316
+148,34,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,260
+149,33,Miami-Dade County,Fitness,High,Nighttime,390
+150,35,Miami-Dade County,Nightlife,High,Daytime,116
+151,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,135
+152,34,Miami-Dade County,Beach,Low,Both,316
+153,32,Miami-Dade County,Day Weekend Activities,High,Daytime,276
+154,34,Miami-Dade County,Beach,Medium,Daytime,152
+155,33,Miami-Dade County,Fitness,Medium,Daytime,138
+156,34,Miami-Dade County,Beach,High,Daytime,319
+157,32,Miami-Dade County,Trips Outside Miami,High,Both,81
+158,32,Miami-Dade County,Fitness,High,Daytime,267
+159,35,Miami-Dade County,Beach,Medium,Nighttime,386
+160,33,Miami-Dade County,Beach,Medium,Daytime,109
+161,31,Miami-Dade County,Beach,Medium,Daytime,346
+162,31,Miami-Dade County,Nightlife,High,Both,187
+163,34,Miami-Dade County,Beach,High,Both,169
+164,35,Miami-Dade County,Beach,Low,Daytime,284
+165,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,299
+166,34,Miami-Dade County,Beach,High,Daytime,173
+167,35,Miami-Dade County,Fitness,Low,Daytime,182
+168,33,Miami-Dade County,Beach,Medium,Nighttime,302
+169,33,Miami-Dade County,Fitness,Medium,Daytime,265
+170,33,Miami-Dade County,Fitness,Medium,Daytime,263
+171,33,Miami-Dade County,Beach,Medium,Daytime,241
+172,33,Miami-Dade County,Beach,Medium,Both,326
+173,35,Miami-Dade County,Nightlife,High,Both,110
+174,35,Miami-Dade County,Beach,High,Daytime,131
+175,32,Miami-Dade County,Day Weekend Activities,Low,Both,155
+176,31,Miami-Dade County,Day Weekend Activities,High,Daytime,357
+177,33,Miami-Dade County,Fitness,High,Daytime,119
+178,30,Miami-Dade County,Day Weekend Activities,High,Both,180
+179,35,Miami-Dade County,Fitness,High,Both,190
+180,30,Miami-Dade County,Nightlife,Medium,Both,400
+181,30,Miami-Dade County,Fitness,Low,Nighttime,328
+182,30,Miami-Dade County,Beach,High,Daytime,270
+183,32,Miami-Dade County,Fitness,High,Both,261
+184,35,Miami-Dade County,Nightlife,High,Daytime,288
+185,30,Miami-Dade County,Beach,Low,Nighttime,101
+186,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,245
+187,34,Miami-Dade County,Fitness,High,Nighttime,178
+188,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,287
+189,32,Miami-Dade County,Fitness,Low,Daytime,87
+190,35,Miami-Dade County,Trips Outside Miami,Medium,Both,269
+191,32,Miami-Dade County,Fitness,Low,Daytime,254
+192,30,Miami-Dade County,Fitness,High,Nighttime,352
+193,35,Miami-Dade County,Fitness,Medium,Daytime,96
+194,34,Miami-Dade County,Beach,High,Daytime,169
+195,30,Miami-Dade County,Beach,Medium,Daytime,220
+196,32,Miami-Dade County,Fitness,Medium,Daytime,224
+197,31,Miami-Dade County,Trips Outside Miami,Medium,Both,245
+198,33,Miami-Dade County,Beach,Medium,Daytime,157
+199,32,Miami-Dade County,Beach,High,Both,341
+200,35,Miami-Dade County,Beach,High,Nighttime,242
+201,30,Miami-Dade County,Beach,Low,Daytime,93
+202,33,Miami-Dade County,Beach,Low,Nighttime,318
+203,30,Miami-Dade County,Fitness,High,Nighttime,151
+204,35,Miami-Dade County,Fitness,High,Both,222
+205,30,Miami-Dade County,Trips Outside Miami,High,Daytime,389
+206,31,Miami-Dade County,Nightlife,Medium,Daytime,362
+207,33,Miami-Dade County,Beach,Medium,Both,348
+208,33,Miami-Dade County,Fitness,High,Both,320
+209,35,Miami-Dade County,Day Weekend Activities,High,Both,324
+210,31,Miami-Dade County,Beach,Medium,Daytime,242
+211,32,Miami-Dade County,Fitness,Medium,Both,139
+212,30,Miami-Dade County,Fitness,High,Daytime,85
+213,34,Miami-Dade County,Day Weekend Activities,Medium,Daytime,276
+214,30,Miami-Dade County,Day Weekend Activities,High,Daytime,137
+215,30,Miami-Dade County,Fitness,High,Nighttime,384
+216,32,Miami-Dade County,Fitness,Medium,Daytime,296
+217,30,Miami-Dade County,Fitness,Medium,Daytime,105
+218,31,Miami-Dade County,Day Weekend Activities,Low,Both,382
+219,31,Miami-Dade County,Fitness,Medium,Daytime,84
+220,33,Miami-Dade County,Fitness,Medium,Daytime,99
+221,35,Miami-Dade County,Trips Outside Miami,High,Daytime,277
+222,34,Miami-Dade County,Fitness,High,Both,138
+223,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,321
+224,30,Miami-Dade County,Fitness,High,Daytime,225
+225,32,Miami-Dade County,Fitness,Medium,Both,352
+226,35,Miami-Dade County,Fitness,Low,Both,328
+227,31,Miami-Dade County,Day Weekend Activities,High,Daytime,93
+228,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,92
+229,33,Miami-Dade County,Trips Outside Miami,Medium,Both,123
+230,31,Miami-Dade County,Beach,High,Nighttime,98
+231,35,Miami-Dade County,Day Weekend Activities,Medium,Daytime,142
+232,33,Miami-Dade County,Fitness,Medium,Both,318
+233,32,Miami-Dade County,Fitness,Medium,Nighttime,179
+234,32,Miami-Dade County,Trips Outside Miami,High,Daytime,242
+235,30,Miami-Dade County,Fitness,High,Daytime,201
+236,35,Miami-Dade County,Fitness,Medium,Daytime,123
+237,34,Miami-Dade County,Fitness,Medium,Daytime,396
+238,33,Miami-Dade County,Fitness,High,Both,224
+239,31,Miami-Dade County,Fitness,Medium,Daytime,129
+240,35,Miami-Dade County,Day Weekend Activities,High,Daytime,144
+241,35,Miami-Dade County,Beach,Medium,Nighttime,367
+242,32,Miami-Dade County,Trips Outside Miami,High,Daytime,243
+243,30,Miami-Dade County,Trips Outside Miami,Low,Both,220
+244,30,Miami-Dade County,Beach,High,Daytime,393
+245,33,Miami-Dade County,Fitness,High,Daytime,207
+246,32,Miami-Dade County,Beach,High,Daytime,318
+247,35,Miami-Dade County,Day Weekend Activities,High,Daytime,375
+248,34,Miami-Dade County,Fitness,Low,Daytime,266
+249,32,Miami-Dade County,Day Weekend Activities,Low,Both,287
+250,33,Miami-Dade County,Beach,High,Both,299
+251,33,Miami-Dade County,Beach,High,Daytime,269
+252,32,Miami-Dade County,Beach,Medium,Nighttime,363
+253,33,Miami-Dade County,Fitness,Low,Both,316
+254,32,Miami-Dade County,Nightlife,Medium,Both,273
+255,31,Miami-Dade County,Trips Outside Miami,High,Daytime,366
+256,32,Miami-Dade County,Fitness,High,Daytime,338
+257,32,Miami-Dade County,Trips Outside Miami,Medium,Daytime,325
+258,33,Miami-Dade County,Beach,High,Both,215
+259,33,Miami-Dade County,Trips Outside Miami,Medium,Both,359
+260,30,Miami-Dade County,Trips Outside Miami,High,Daytime,350
+261,30,Miami-Dade County,Beach,Medium,Daytime,250
+262,31,Miami-Dade County,Fitness,High,Both,238
+263,30,Miami-Dade County,Fitness,Medium,Both,280
+264,32,Miami-Dade County,Beach,High,Both,124
+265,33,Miami-Dade County,Day Weekend Activities,Medium,Both,343
+266,30,Miami-Dade County,Fitness,High,Daytime,150
+267,30,Miami-Dade County,Fitness,Medium,Nighttime,182
+268,31,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,204
+269,35,Miami-Dade County,Nightlife,Medium,Daytime,392
+270,31,Miami-Dade County,Beach,Medium,Nighttime,365
+271,32,Miami-Dade County,Fitness,Medium,Both,309
+272,33,Miami-Dade County,Fitness,Medium,Daytime,225
+273,31,Miami-Dade County,Fitness,High,Both,276
+274,30,Miami-Dade County,Nightlife,Medium,Nighttime,300
+275,33,Miami-Dade County,Fitness,High,Both,139
+276,33,Miami-Dade County,Day Weekend Activities,High,Daytime,177
+277,30,Miami-Dade County,Fitness,High,Daytime,250
+278,31,Miami-Dade County,Beach,High,Nighttime,252
+279,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,230
+280,35,Miami-Dade County,Trips Outside Miami,Medium,Both,201
+281,33,Miami-Dade County,Fitness,Medium,Both,187
+282,34,Miami-Dade County,Fitness,High,Daytime,83
+283,34,Miami-Dade County,Fitness,High,Nighttime,172
+284,32,Miami-Dade County,Nightlife,High,Nighttime,85
+285,30,Miami-Dade County,Trips Outside Miami,High,Daytime,367
+286,30,Miami-Dade County,Day Weekend Activities,High,Both,185
+287,32,Miami-Dade County,Day Weekend Activities,High,Both,225
+288,32,Miami-Dade County,Day Weekend Activities,High,Nighttime,350
+289,32,Miami-Dade County,Fitness,Medium,Both,175
+290,33,Miami-Dade County,Nightlife,Medium,Daytime,308
+291,35,Miami-Dade County,Beach,Low,Both,281
+292,30,Miami-Dade County,Beach,Low,Nighttime,291
+293,33,Miami-Dade County,Beach,Medium,Both,85
+294,32,Miami-Dade County,Fitness,High,Both,191
+295,30,Miami-Dade County,Fitness,Medium,Daytime,185
+296,33,Miami-Dade County,Day Weekend Activities,Medium,Both,218
+297,35,Miami-Dade County,Fitness,High,Daytime,378
+298,33,Miami-Dade County,Day Weekend Activities,High,Daytime,175
+299,35,Miami-Dade County,Fitness,Medium,Daytime,376
+300,32,Miami-Dade County,Beach,High,Both,293
+301,35,Miami-Dade County,Fitness,Medium,Both,370
+302,30,Miami-Dade County,Beach,Medium,Both,101
+303,32,Miami-Dade County,Day Weekend Activities,High,Both,272
+304,30,Miami-Dade County,Fitness,High,Nighttime,229
+305,34,Miami-Dade County,Beach,High,Both,326
+306,31,Miami-Dade County,Beach,High,Daytime,346
+307,35,Miami-Dade County,Day Weekend Activities,High,Daytime,330
+308,31,Miami-Dade County,Nightlife,Medium,Daytime,82
+309,31,Miami-Dade County,Day Weekend Activities,High,Both,395
+310,35,Miami-Dade County,Fitness,High,Both,155
+311,32,Miami-Dade County,Fitness,High,Daytime,166
+312,34,Miami-Dade County,Fitness,Low,Daytime,349
+313,30,Miami-Dade County,Day Weekend Activities,High,Both,304
+314,33,Miami-Dade County,Fitness,High,Daytime,97
+315,30,Miami-Dade County,Beach,Low,Both,192
+316,33,Miami-Dade County,Day Weekend Activities,Medium,Both,330
+317,30,Miami-Dade County,Beach,High,Daytime,312
+318,35,Miami-Dade County,Trips Outside Miami,Medium,Daytime,358
+319,34,Miami-Dade County,Fitness,High,Both,281
+320,33,Miami-Dade County,Fitness,High,Both,162
+321,32,Miami-Dade County,Day Weekend Activities,High,Nighttime,204
+322,30,Miami-Dade County,Beach,High,Both,254
+323,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,148
+324,33,Miami-Dade County,Beach,High,Nighttime,126
+325,32,Miami-Dade County,Fitness,High,Both,335
+326,32,Miami-Dade County,Trips Outside Miami,Medium,Both,294
+327,35,Miami-Dade County,Trips Outside Miami,Medium,Daytime,109
+328,35,Miami-Dade County,Day Weekend Activities,High,Both,360
+329,35,Miami-Dade County,Fitness,Medium,Nighttime,316
+330,35,Miami-Dade County,Day Weekend Activities,High,Daytime,327
+331,35,Miami-Dade County,Beach,Medium,Daytime,104
+332,35,Miami-Dade County,Fitness,Medium,Both,153
+333,34,Miami-Dade County,Nightlife,Low,Daytime,285
+334,32,Miami-Dade County,Fitness,High,Daytime,393
+335,35,Miami-Dade County,Nightlife,High,Daytime,173
+336,32,Miami-Dade County,Beach,High,Both,206
+337,32,Miami-Dade County,Fitness,High,Nighttime,104
+338,31,Miami-Dade County,Beach,High,Both,195
+339,34,Miami-Dade County,Trips Outside Miami,Low,Daytime,127
+340,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,305
+341,30,Miami-Dade County,Trips Outside Miami,High,Nighttime,345
+342,33,Miami-Dade County,Day Weekend Activities,Medium,Both,178
+343,30,Miami-Dade County,Day Weekend Activities,High,Both,90
+344,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,164
+345,33,Miami-Dade County,Fitness,High,Nighttime,293
+346,34,Miami-Dade County,Beach,High,Daytime,252
+347,32,Miami-Dade County,Fitness,High,Nighttime,288
+348,33,Miami-Dade County,Nightlife,High,Daytime,143
+349,32,Miami-Dade County,Nightlife,Low,Daytime,337
+350,30,Miami-Dade County,Fitness,High,Daytime,200
+351,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,377
+352,33,Miami-Dade County,Nightlife,High,Daytime,133
+353,33,Miami-Dade County,Fitness,High,Both,351
+354,35,Miami-Dade County,Beach,Low,Daytime,320
+355,34,Miami-Dade County,Nightlife,High,Daytime,322
+356,35,Miami-Dade County,Fitness,Medium,Both,97
+357,34,Miami-Dade County,Day Weekend Activities,Low,Daytime,266
+358,35,Miami-Dade County,Fitness,Medium,Daytime,223
+359,32,Miami-Dade County,Nightlife,Low,Nighttime,341
+360,33,Miami-Dade County,Nightlife,High,Daytime,318
+361,30,Miami-Dade County,Nightlife,High,Daytime,383
+362,34,Miami-Dade County,Beach,High,Daytime,377
+363,34,Miami-Dade County,Trips Outside Miami,Medium,Both,155
+364,30,Miami-Dade County,Trips Outside Miami,Low,Nighttime,267
+365,35,Miami-Dade County,Fitness,High,Nighttime,325
+366,34,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,209
+367,32,Miami-Dade County,Fitness,High,Daytime,394
+368,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,362
+369,30,Miami-Dade County,Fitness,High,Both,158
+370,33,Miami-Dade County,Fitness,Low,Daytime,151
+371,34,Miami-Dade County,Fitness,Medium,Daytime,342
+372,34,Miami-Dade County,Day Weekend Activities,High,Daytime,270
+373,30,Miami-Dade County,Beach,High,Daytime,142
+374,32,Miami-Dade County,Day Weekend Activities,High,Both,91
+375,31,Miami-Dade County,Fitness,High,Daytime,220
+376,30,Miami-Dade County,Fitness,High,Nighttime,333
+377,31,Miami-Dade County,Beach,Low,Daytime,122
+378,35,Miami-Dade County,Trips Outside Miami,Medium,Both,96
+379,31,Miami-Dade County,Fitness,High,Daytime,142
+380,32,Miami-Dade County,Day Weekend Activities,High,Daytime,332
+381,35,Miami-Dade County,Trips Outside Miami,Low,Both,371
+382,31,Miami-Dade County,Day Weekend Activities,Medium,Both,87
+383,35,Miami-Dade County,Fitness,High,Daytime,169
+384,31,Miami-Dade County,Fitness,Medium,Daytime,287
+385,32,Miami-Dade County,Trips Outside Miami,High,Daytime,371
+386,31,Miami-Dade County,Fitness,High,Daytime,363
+387,31,Miami-Dade County,Trips Outside Miami,High,Daytime,197
+388,31,Miami-Dade County,Beach,High,Daytime,254
+389,30,Miami-Dade County,Nightlife,High,Daytime,155
+390,30,Miami-Dade County,Trips Outside Miami,Low,Daytime,180
+391,30,Miami-Dade County,Nightlife,Medium,Nighttime,230
+392,32,Miami-Dade County,Beach,Medium,Both,349
+393,35,Miami-Dade County,Trips Outside Miami,High,Nighttime,150
+394,34,Miami-Dade County,Beach,High,Daytime,259
+395,31,Miami-Dade County,Beach,Medium,Daytime,203
+396,31,Miami-Dade County,Day Weekend Activities,High,Both,372
+397,32,Miami-Dade County,Trips Outside Miami,High,Daytime,364
+398,31,Miami-Dade County,Nightlife,High,Daytime,274
+399,30,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,307
+400,34,Miami-Dade County,Beach,High,Nighttime,354
+401,33,Miami-Dade County,Beach,High,Nighttime,185
+402,31,Miami-Dade County,Day Weekend Activities,Medium,Daytime,100
+403,30,Miami-Dade County,Fitness,High,Daytime,143
+404,33,Miami-Dade County,Fitness,High,Both,244
+405,34,Miami-Dade County,Beach,High,Daytime,106
+406,33,Miami-Dade County,Fitness,High,Nighttime,390
+407,30,Miami-Dade County,Fitness,Medium,Both,364
+408,35,Miami-Dade County,Fitness,High,Nighttime,227
+409,35,Miami-Dade County,Fitness,High,Daytime,360
+410,33,Miami-Dade County,Fitness,Low,Daytime,398
+411,32,Miami-Dade County,Nightlife,Low,Nighttime,243
+412,33,Miami-Dade County,Beach,Low,Both,303
+413,31,Miami-Dade County,Beach,High,Both,351
+414,31,Miami-Dade County,Day Weekend Activities,High,Daytime,225
+415,35,Miami-Dade County,Fitness,Low,Daytime,109
+416,32,Miami-Dade County,Nightlife,Medium,Both,124
+417,30,Miami-Dade County,Trips Outside Miami,High,Both,354
+418,31,Miami-Dade County,Fitness,High,Both,113
+419,35,Miami-Dade County,Beach,High,Daytime,220
+420,34,Miami-Dade County,Trips Outside Miami,Low,Nighttime,397
+421,35,Miami-Dade County,Nightlife,High,Both,300
+422,31,Miami-Dade County,Beach,High,Nighttime,101
+423,31,Miami-Dade County,Day Weekend Activities,High,Daytime,259
+424,35,Miami-Dade County,Fitness,Medium,Daytime,310
+425,30,Miami-Dade County,Nightlife,Medium,Nighttime,117
+426,33,Miami-Dade County,Fitness,High,Daytime,149
+427,31,Miami-Dade County,Nightlife,Medium,Daytime,195
+428,35,Miami-Dade County,Day Weekend Activities,Low,Both,318
+429,35,Miami-Dade County,Day Weekend Activities,High,Daytime,227
+430,32,Miami-Dade County,Beach,High,Both,88
+431,33,Miami-Dade County,Fitness,High,Daytime,367
+432,34,Miami-Dade County,Fitness,Medium,Nighttime,129
+433,30,Miami-Dade County,Fitness,Medium,Both,84
+434,34,Miami-Dade County,Fitness,Medium,Daytime,205
+435,33,Miami-Dade County,Trips Outside Miami,Medium,Daytime,154
+436,33,Miami-Dade County,Beach,High,Daytime,244
+437,33,Miami-Dade County,Fitness,Low,Daytime,357
+438,34,Miami-Dade County,Nightlife,High,Both,379
+439,33,Miami-Dade County,Trips Outside Miami,High,Both,369
+440,35,Miami-Dade County,Nightlife,Medium,Daytime,156
+441,34,Miami-Dade County,Nightlife,Medium,Daytime,377
+442,33,Miami-Dade County,Fitness,High,Daytime,216
+443,35,Miami-Dade County,Beach,Low,Both,185
+444,32,Miami-Dade County,Day Weekend Activities,Low,Daytime,174
+445,33,Miami-Dade County,Day Weekend Activities,High,Nighttime,214
+446,34,Miami-Dade County,Fitness,Low,Nighttime,147
+447,31,Miami-Dade County,Trips Outside Miami,High,Nighttime,226
+448,33,Miami-Dade County,Fitness,High,Daytime,238
+449,31,Miami-Dade County,Fitness,High,Both,242
+450,35,Miami-Dade County,Beach,Low,Daytime,268
+451,32,Miami-Dade County,Day Weekend Activities,Medium,Daytime,174
+452,30,Miami-Dade County,Day Weekend Activities,High,Both,260
+453,32,Miami-Dade County,Fitness,High,Both,367
+454,33,Miami-Dade County,Trips Outside Miami,Medium,Daytime,266
+455,31,Miami-Dade County,Fitness,High,Daytime,217
+456,31,Miami-Dade County,Fitness,Low,Daytime,209
+457,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,273
+458,31,Miami-Dade County,Nightlife,High,Daytime,395
+459,34,Miami-Dade County,Trips Outside Miami,Low,Daytime,352
+460,35,Miami-Dade County,Trips Outside Miami,High,Daytime,223
+461,30,Miami-Dade County,Day Weekend Activities,Low,Both,95
+462,33,Miami-Dade County,Beach,Medium,Nighttime,381
+463,34,Miami-Dade County,Fitness,Medium,Nighttime,324
+464,30,Miami-Dade County,Beach,High,Daytime,186
+465,31,Miami-Dade County,Beach,Low,Both,167
+466,31,Miami-Dade County,Fitness,High,Both,208
+467,30,Miami-Dade County,Day Weekend Activities,High,Both,83
+468,31,Miami-Dade County,Beach,High,Both,385
+469,35,Miami-Dade County,Fitness,Medium,Both,174
+470,35,Miami-Dade County,Fitness,High,Nighttime,288
+471,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,304
+472,34,Miami-Dade County,Fitness,Low,Nighttime,400
+473,34,Miami-Dade County,Trips Outside Miami,High,Both,126
+474,30,Miami-Dade County,Beach,Medium,Both,260
+475,34,Miami-Dade County,Beach,High,Nighttime,185
+476,34,Miami-Dade County,Day Weekend Activities,Low,Daytime,278
+477,35,Miami-Dade County,Trips Outside Miami,Medium,Daytime,185
+478,34,Miami-Dade County,Beach,High,Both,359
+479,32,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,339
+480,33,Miami-Dade County,Beach,High,Nighttime,187
+481,31,Miami-Dade County,Fitness,High,Daytime,98
+482,32,Miami-Dade County,Trips Outside Miami,Medium,Daytime,375
+483,34,Miami-Dade County,Trips Outside Miami,High,Both,385
+484,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,250
+485,30,Miami-Dade County,Trips Outside Miami,High,Both,274
+486,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,91
+487,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,274
+488,33,Miami-Dade County,Trips Outside Miami,High,Daytime,362
+489,34,Miami-Dade County,Day Weekend Activities,Medium,Both,261
+490,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,384
+491,35,Miami-Dade County,Day Weekend Activities,High,Daytime,223
+492,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,395
+493,35,Miami-Dade County,Fitness,High,Both,261
+494,33,Miami-Dade County,Trips Outside Miami,High,Daytime,109
+495,34,Miami-Dade County,Trips Outside Miami,High,Both,163
+496,33,Miami-Dade County,Fitness,Medium,Daytime,245
+497,31,Miami-Dade County,Trips Outside Miami,Medium,Daytime,363
+498,31,Miami-Dade County,Fitness,Medium,Daytime,360
+499,34,Miami-Dade County,Beach,High,Daytime,175
+500,33,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,345
+501,30,Miami-Dade County,Fitness,High,Daytime,377
+502,35,Miami-Dade County,Trips Outside Miami,Low,Daytime,375
+503,35,Miami-Dade County,Trips Outside Miami,Medium,Both,304
+504,34,Miami-Dade County,Beach,High,Daytime,121
+505,31,Miami-Dade County,Fitness,Medium,Both,382
+506,31,Miami-Dade County,Fitness,High,Daytime,325
+507,35,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,287
+508,34,Miami-Dade County,Nightlife,High,Daytime,316
+509,33,Miami-Dade County,Day Weekend Activities,High,Daytime,101
+510,31,Miami-Dade County,Fitness,Low,Daytime,264
+511,33,Miami-Dade County,Day Weekend Activities,High,Daytime,321
+512,31,Miami-Dade County,Beach,Medium,Daytime,362
+513,31,Miami-Dade County,Trips Outside Miami,High,Nighttime,120
+514,32,Miami-Dade County,Fitness,Medium,Both,241
+515,31,Miami-Dade County,Trips Outside Miami,Medium,Both,239
+516,30,Miami-Dade County,Beach,High,Nighttime,168
+517,34,Miami-Dade County,Nightlife,High,Daytime,91
+518,34,Miami-Dade County,Beach,High,Daytime,152
+519,33,Miami-Dade County,Day Weekend Activities,High,Daytime,155
+520,31,Miami-Dade County,Nightlife,High,Daytime,280
+521,30,Miami-Dade County,Fitness,Medium,Nighttime,89
+522,33,Miami-Dade County,Nightlife,Low,Nighttime,305
+523,32,Miami-Dade County,Day Weekend Activities,Low,Daytime,255
+524,33,Miami-Dade County,Fitness,Medium,Daytime,355
+525,33,Miami-Dade County,Fitness,Medium,Both,118
+526,31,Miami-Dade County,Day Weekend Activities,Medium,Both,139
+527,32,Miami-Dade County,Fitness,High,Daytime,145
+528,33,Miami-Dade County,Day Weekend Activities,Low,Both,400
+529,30,Miami-Dade County,Beach,Medium,Both,203
+530,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,243
+531,34,Miami-Dade County,Fitness,High,Daytime,238
+532,32,Miami-Dade County,Trips Outside Miami,High,Nighttime,136
+533,32,Miami-Dade County,Nightlife,High,Both,157
+534,34,Miami-Dade County,Nightlife,Low,Both,273
+535,33,Miami-Dade County,Day Weekend Activities,High,Daytime,364
+536,32,Miami-Dade County,Fitness,High,Daytime,94
+537,30,Miami-Dade County,Day Weekend Activities,Low,Nighttime,91
+538,30,Miami-Dade County,Fitness,High,Nighttime,180
+539,31,Miami-Dade County,Fitness,High,Daytime,235
+540,32,Miami-Dade County,Beach,High,Both,204
+541,33,Miami-Dade County,Beach,Medium,Nighttime,359
+542,34,Miami-Dade County,Trips Outside Miami,Low,Both,189
+543,34,Miami-Dade County,Day Weekend Activities,High,Both,225
+544,33,Miami-Dade County,Beach,Low,Both,295
+545,35,Miami-Dade County,Fitness,High,Daytime,241
+546,31,Miami-Dade County,Nightlife,Low,Nighttime,207
+547,34,Miami-Dade County,Beach,Medium,Daytime,393
+548,32,Miami-Dade County,Beach,Medium,Nighttime,229
+549,31,Miami-Dade County,Fitness,High,Daytime,115
+550,32,Miami-Dade County,Trips Outside Miami,Low,Nighttime,252
+551,30,Miami-Dade County,Day Weekend Activities,Medium,Daytime,101
+552,31,Miami-Dade County,Fitness,High,Daytime,285
+553,34,Miami-Dade County,Fitness,Medium,Daytime,206
+554,31,Miami-Dade County,Day Weekend Activities,High,Daytime,296
+555,31,Miami-Dade County,Day Weekend Activities,Low,Both,175
+556,31,Miami-Dade County,Fitness,High,Both,243
+557,35,Miami-Dade County,Nightlife,Medium,Nighttime,227
+558,31,Miami-Dade County,Fitness,High,Daytime,97
+559,32,Miami-Dade County,Beach,High,Daytime,373
+560,30,Miami-Dade County,Nightlife,High,Daytime,274
+561,33,Miami-Dade County,Beach,High,Daytime,230
+562,31,Miami-Dade County,Day Weekend Activities,High,Both,202
+563,34,Miami-Dade County,Beach,High,Daytime,266
+564,31,Miami-Dade County,Fitness,Medium,Daytime,228
+565,34,Miami-Dade County,Nightlife,High,Daytime,183
+566,32,Miami-Dade County,Beach,High,Daytime,322
+567,34,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,310
+568,33,Miami-Dade County,Fitness,High,Nighttime,285
+569,30,Miami-Dade County,Fitness,Low,Daytime,277
+570,34,Miami-Dade County,Fitness,Low,Daytime,166
+571,34,Miami-Dade County,Day Weekend Activities,Medium,Daytime,221
+572,30,Miami-Dade County,Beach,Medium,Daytime,396
+573,33,Miami-Dade County,Trips Outside Miami,Low,Daytime,278
+574,31,Miami-Dade County,Beach,High,Both,125
+575,34,Miami-Dade County,Nightlife,High,Nighttime,367
+576,30,Miami-Dade County,Fitness,High,Nighttime,94
+577,32,Miami-Dade County,Trips Outside Miami,Medium,Daytime,123
+578,30,Miami-Dade County,Trips Outside Miami,High,Daytime,248
+579,32,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,389
+580,33,Miami-Dade County,Trips Outside Miami,Low,Nighttime,123
+581,31,Miami-Dade County,Trips Outside Miami,Low,Both,177
+582,30,Miami-Dade County,Day Weekend Activities,High,Daytime,340
+583,35,Miami-Dade County,Fitness,High,Nighttime,188
+584,34,Miami-Dade County,Fitness,Medium,Daytime,362
+585,33,Miami-Dade County,Nightlife,Medium,Both,183
+586,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,335
+587,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,285
+588,30,Miami-Dade County,Beach,Low,Daytime,122
+589,32,Miami-Dade County,Fitness,Medium,Nighttime,324
+590,30,Miami-Dade County,Fitness,Medium,Daytime,366
+591,35,Miami-Dade County,Day Weekend Activities,Low,Daytime,352
+592,30,Miami-Dade County,Beach,Medium,Daytime,162
+593,30,Miami-Dade County,Fitness,High,Nighttime,189
+594,35,Miami-Dade County,Beach,High,Daytime,269
+595,33,Miami-Dade County,Fitness,High,Daytime,367
+596,30,Miami-Dade County,Day Weekend Activities,High,Both,330
+597,35,Miami-Dade County,Fitness,Medium,Daytime,291
+598,34,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,370
+599,32,Miami-Dade County,Fitness,Low,Daytime,212
+600,32,Miami-Dade County,Beach,High,Daytime,280
+601,30,Miami-Dade County,Fitness,Medium,Both,364
+602,33,Miami-Dade County,Fitness,Medium,Daytime,174
+603,33,Miami-Dade County,Beach,Medium,Daytime,357
+604,34,Miami-Dade County,Beach,Medium,Nighttime,298
+605,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,168
+606,32,Miami-Dade County,Fitness,High,Nighttime,151
+607,33,Miami-Dade County,Day Weekend Activities,High,Daytime,326
+608,30,Miami-Dade County,Trips Outside Miami,High,Daytime,208
+609,33,Miami-Dade County,Trips Outside Miami,High,Both,291
+610,35,Miami-Dade County,Fitness,Medium,Nighttime,175
+611,33,Miami-Dade County,Beach,Low,Both,154
+612,32,Miami-Dade County,Fitness,Medium,Both,133
+613,31,Miami-Dade County,Fitness,Medium,Both,133
+614,34,Miami-Dade County,Nightlife,High,Daytime,297
+615,34,Miami-Dade County,Fitness,Medium,Daytime,95
+616,32,Miami-Dade County,Beach,High,Both,178
+617,33,Miami-Dade County,Day Weekend Activities,High,Daytime,99
+618,30,Miami-Dade County,Day Weekend Activities,High,Daytime,125
+619,33,Miami-Dade County,Beach,High,Both,272
+620,32,Miami-Dade County,Fitness,High,Both,137
+621,34,Miami-Dade County,Beach,High,Daytime,190
+622,33,Miami-Dade County,Beach,High,Daytime,208
+623,34,Miami-Dade County,Fitness,Low,Daytime,273
+624,30,Miami-Dade County,Beach,High,Both,87
+625,34,Miami-Dade County,Fitness,High,Both,108
+626,34,Miami-Dade County,Fitness,High,Daytime,191
+627,31,Miami-Dade County,Beach,Medium,Daytime,240
+628,31,Miami-Dade County,Fitness,High,Both,210
+629,35,Miami-Dade County,Beach,High,Daytime,267
+630,31,Miami-Dade County,Day Weekend Activities,High,Nighttime,242
+631,34,Miami-Dade County,Trips Outside Miami,High,Both,276
+632,32,Miami-Dade County,Fitness,High,Daytime,283
+633,34,Miami-Dade County,Fitness,High,Nighttime,291
+634,32,Miami-Dade County,Fitness,High,Daytime,188
+635,32,Miami-Dade County,Day Weekend Activities,High,Daytime,355
+636,31,Miami-Dade County,Day Weekend Activities,High,Both,152
+637,33,Miami-Dade County,Fitness,Medium,Daytime,246
+638,30,Miami-Dade County,Nightlife,Medium,Both,339
+639,31,Miami-Dade County,Fitness,High,Nighttime,322
+640,31,Miami-Dade County,Beach,High,Daytime,354
+641,33,Miami-Dade County,Day Weekend Activities,Low,Daytime,181
+642,30,Miami-Dade County,Trips Outside Miami,High,Daytime,252
+643,34,Miami-Dade County,Day Weekend Activities,High,Daytime,250
+644,35,Miami-Dade County,Trips Outside Miami,Medium,Daytime,220
+645,35,Miami-Dade County,Beach,High,Daytime,267
+646,34,Miami-Dade County,Trips Outside Miami,High,Daytime,165
+647,31,Miami-Dade County,Fitness,High,Both,131
+648,30,Miami-Dade County,Trips Outside Miami,Low,Nighttime,190
+649,31,Miami-Dade County,Beach,High,Both,122
+650,32,Miami-Dade County,Trips Outside Miami,Medium,Daytime,290
+651,31,Miami-Dade County,Beach,Low,Daytime,279
+652,31,Miami-Dade County,Day Weekend Activities,High,Nighttime,377
+653,34,Miami-Dade County,Beach,High,Daytime,319
+654,34,Miami-Dade County,Day Weekend Activities,High,Daytime,194
+655,34,Miami-Dade County,Fitness,High,Both,105
+656,35,Miami-Dade County,Fitness,High,Both,378
+657,32,Miami-Dade County,Fitness,Low,Nighttime,156
+658,34,Miami-Dade County,Fitness,Medium,Daytime,216
+659,30,Miami-Dade County,Trips Outside Miami,Medium,Both,99
+660,35,Miami-Dade County,Fitness,High,Nighttime,290
+661,33,Miami-Dade County,Nightlife,Medium,Both,319
+662,30,Miami-Dade County,Beach,Low,Both,118
+663,30,Miami-Dade County,Fitness,Medium,Both,347
+664,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,286
+665,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,346
+666,33,Miami-Dade County,Beach,High,Nighttime,233
+667,35,Miami-Dade County,Beach,High,Nighttime,121
+668,33,Miami-Dade County,Day Weekend Activities,High,Both,90
+669,32,Miami-Dade County,Fitness,Medium,Daytime,373
+670,34,Miami-Dade County,Nightlife,Medium,Daytime,177
+671,33,Miami-Dade County,Nightlife,High,Both,354
+672,35,Miami-Dade County,Day Weekend Activities,High,Both,309
+673,32,Miami-Dade County,Fitness,High,Both,299
+674,31,Miami-Dade County,Day Weekend Activities,High,Both,144
+675,31,Miami-Dade County,Fitness,High,Nighttime,311
+676,32,Miami-Dade County,Fitness,High,Nighttime,131
+677,35,Miami-Dade County,Fitness,Medium,Both,342
+678,32,Miami-Dade County,Beach,High,Nighttime,346
+679,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,396
+680,34,Miami-Dade County,Day Weekend Activities,High,Daytime,233
+681,31,Miami-Dade County,Day Weekend Activities,Low,Daytime,219
+682,33,Miami-Dade County,Beach,Medium,Both,130
+683,35,Miami-Dade County,Beach,Medium,Daytime,196
+684,31,Miami-Dade County,Beach,High,Daytime,125
+685,33,Miami-Dade County,Nightlife,Medium,Daytime,388
+686,33,Miami-Dade County,Fitness,High,Daytime,167
+687,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,287
+688,30,Miami-Dade County,Day Weekend Activities,Low,Daytime,348
+689,30,Miami-Dade County,Beach,Medium,Both,168
+690,32,Miami-Dade County,Day Weekend Activities,Low,Nighttime,197
+691,34,Miami-Dade County,Beach,Medium,Daytime,133
+692,33,Miami-Dade County,Trips Outside Miami,High,Daytime,195
+693,35,Miami-Dade County,Nightlife,Low,Nighttime,197
+694,30,Miami-Dade County,Beach,High,Daytime,339
+695,33,Miami-Dade County,Fitness,High,Both,154
+696,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,384
+697,30,Miami-Dade County,Nightlife,High,Both,86
+698,30,Miami-Dade County,Fitness,High,Daytime,201
+699,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,90
+700,34,Miami-Dade County,Day Weekend Activities,High,Daytime,294
+701,35,Miami-Dade County,Day Weekend Activities,Medium,Both,358
+702,31,Miami-Dade County,Fitness,High,Nighttime,107
+703,33,Miami-Dade County,Day Weekend Activities,High,Daytime,314
+704,34,Miami-Dade County,Nightlife,Medium,Daytime,392
+705,34,Miami-Dade County,Fitness,High,Daytime,105
+706,34,Miami-Dade County,Fitness,Medium,Nighttime,133
+707,34,Miami-Dade County,Nightlife,Medium,Daytime,108
+708,35,Miami-Dade County,Fitness,Medium,Nighttime,243
+709,34,Miami-Dade County,Trips Outside Miami,Medium,Daytime,349
+710,32,Miami-Dade County,Beach,High,Nighttime,114
+711,33,Miami-Dade County,Fitness,Medium,Both,365
+712,34,Miami-Dade County,Trips Outside Miami,High,Both,352
+713,33,Miami-Dade County,Beach,High,Both,287
+714,32,Miami-Dade County,Beach,Medium,Daytime,317
+715,32,Miami-Dade County,Beach,High,Daytime,172
+716,33,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,252
+717,30,Miami-Dade County,Fitness,Medium,Daytime,158
+718,31,Miami-Dade County,Beach,Low,Daytime,189
+719,30,Miami-Dade County,Nightlife,Low,Daytime,296
+720,30,Miami-Dade County,Fitness,High,Daytime,185
+721,35,Miami-Dade County,Day Weekend Activities,High,Daytime,126
+722,30,Miami-Dade County,Beach,Medium,Both,260
+723,34,Miami-Dade County,Trips Outside Miami,High,Daytime,143
+724,35,Miami-Dade County,Fitness,Medium,Nighttime,325
+725,35,Miami-Dade County,Nightlife,Medium,Daytime,323
+726,32,Miami-Dade County,Beach,Medium,Nighttime,399
+727,30,Miami-Dade County,Fitness,High,Daytime,166
+728,32,Miami-Dade County,Fitness,High,Both,296
+729,33,Miami-Dade County,Fitness,High,Both,86
+730,31,Miami-Dade County,Beach,High,Daytime,357
+731,35,Miami-Dade County,Beach,Low,Both,289
+732,33,Miami-Dade County,Trips Outside Miami,High,Both,248
+733,33,Miami-Dade County,Beach,High,Both,217
+734,34,Miami-Dade County,Fitness,High,Both,385
+735,31,Miami-Dade County,Day Weekend Activities,Medium,Daytime,309
+736,33,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,387
+737,33,Miami-Dade County,Fitness,High,Daytime,240
+738,31,Miami-Dade County,Fitness,High,Daytime,80
+739,31,Miami-Dade County,Fitness,High,Both,315
+740,33,Miami-Dade County,Day Weekend Activities,High,Daytime,267
+741,31,Miami-Dade County,Day Weekend Activities,Medium,Both,83
+742,33,Miami-Dade County,Beach,Medium,Both,211
+743,33,Miami-Dade County,Trips Outside Miami,High,Both,297
+744,34,Miami-Dade County,Trips Outside Miami,High,Both,339
+745,30,Miami-Dade County,Day Weekend Activities,Low,Daytime,80
+746,33,Miami-Dade County,Trips Outside Miami,High,Daytime,150
+747,32,Miami-Dade County,Fitness,Medium,Daytime,257
+748,35,Miami-Dade County,Fitness,High,Daytime,268
+749,30,Miami-Dade County,Fitness,High,Daytime,370
+750,30,Miami-Dade County,Fitness,High,Daytime,87
+751,30,Miami-Dade County,Beach,High,Both,332
+752,34,Miami-Dade County,Nightlife,Low,Nighttime,371
+753,33,Miami-Dade County,Fitness,High,Daytime,323
+754,34,Miami-Dade County,Fitness,High,Nighttime,202
+755,33,Miami-Dade County,Beach,High,Daytime,378
+756,34,Miami-Dade County,Nightlife,High,Daytime,362
+757,34,Miami-Dade County,Fitness,High,Both,111
+758,35,Miami-Dade County,Beach,High,Nighttime,225
+759,32,Miami-Dade County,Fitness,Medium,Both,235
+760,34,Miami-Dade County,Fitness,High,Daytime,95
+761,35,Miami-Dade County,Nightlife,High,Both,126
+762,31,Miami-Dade County,Nightlife,Low,Nighttime,330
+763,32,Miami-Dade County,Fitness,High,Nighttime,266
+764,34,Miami-Dade County,Nightlife,Low,Nighttime,110
+765,30,Miami-Dade County,Day Weekend Activities,High,Both,339
+766,31,Miami-Dade County,Trips Outside Miami,Low,Nighttime,96
+767,31,Miami-Dade County,Beach,Medium,Nighttime,118
+768,35,Miami-Dade County,Beach,Medium,Both,383
+769,31,Miami-Dade County,Beach,Low,Both,118
+770,32,Miami-Dade County,Day Weekend Activities,High,Daytime,211
+771,34,Miami-Dade County,Fitness,Low,Both,109
+772,34,Miami-Dade County,Fitness,High,Daytime,237
+773,30,Miami-Dade County,Fitness,High,Daytime,357
+774,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,282
+775,30,Miami-Dade County,Fitness,High,Both,145
+776,31,Miami-Dade County,Day Weekend Activities,High,Both,187
+777,30,Miami-Dade County,Nightlife,Medium,Daytime,347
+778,32,Miami-Dade County,Fitness,High,Nighttime,301
+779,34,Miami-Dade County,Day Weekend Activities,Medium,Daytime,371
+780,31,Miami-Dade County,Beach,Medium,Both,97
+781,30,Miami-Dade County,Trips Outside Miami,High,Both,169
+782,35,Miami-Dade County,Fitness,High,Nighttime,260
+783,32,Miami-Dade County,Day Weekend Activities,High,Both,334
+784,32,Miami-Dade County,Trips Outside Miami,High,Both,332
+785,30,Miami-Dade County,Nightlife,High,Nighttime,336
+786,34,Miami-Dade County,Day Weekend Activities,High,Daytime,166
+787,30,Miami-Dade County,Beach,High,Daytime,169
+788,31,Miami-Dade County,Day Weekend Activities,Low,Nighttime,316
+789,30,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,149
+790,32,Miami-Dade County,Day Weekend Activities,High,Daytime,123
+791,30,Miami-Dade County,Fitness,Medium,Both,279
+792,34,Miami-Dade County,Nightlife,High,Daytime,231
+793,35,Miami-Dade County,Day Weekend Activities,High,Nighttime,165
+794,33,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,98
+795,30,Miami-Dade County,Fitness,High,Nighttime,180
+796,34,Miami-Dade County,Day Weekend Activities,High,Nighttime,174
+797,34,Miami-Dade County,Beach,Low,Daytime,333
+798,35,Miami-Dade County,Day Weekend Activities,Low,Daytime,109
+799,32,Miami-Dade County,Fitness,Medium,Nighttime,328
+800,34,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,112
+801,34,Miami-Dade County,Nightlife,Medium,Daytime,308
+802,34,Miami-Dade County,Fitness,High,Both,91
+803,34,Miami-Dade County,Nightlife,High,Daytime,197
+804,31,Miami-Dade County,Beach,High,Nighttime,234
+805,31,Miami-Dade County,Trips Outside Miami,High,Both,325
+806,32,Miami-Dade County,Trips Outside Miami,High,Daytime,326
+807,30,Miami-Dade County,Beach,High,Daytime,108
+808,34,Miami-Dade County,Day Weekend Activities,Low,Both,240
+809,35,Miami-Dade County,Trips Outside Miami,Low,Nighttime,314
+810,30,Miami-Dade County,Beach,Medium,Nighttime,269
+811,35,Miami-Dade County,Beach,High,Both,196
+812,30,Miami-Dade County,Day Weekend Activities,Low,Both,350
+813,32,Miami-Dade County,Trips Outside Miami,High,Both,337
+814,34,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,259
+815,34,Miami-Dade County,Trips Outside Miami,High,Daytime,251
+816,33,Miami-Dade County,Beach,Medium,Daytime,353
+817,35,Miami-Dade County,Trips Outside Miami,High,Daytime,338
+818,30,Miami-Dade County,Fitness,Low,Nighttime,214
+819,30,Miami-Dade County,Beach,Low,Daytime,250
+820,31,Miami-Dade County,Fitness,High,Both,289
+821,33,Miami-Dade County,Beach,High,Nighttime,315
+822,31,Miami-Dade County,Beach,Low,Nighttime,265
+823,31,Miami-Dade County,Beach,High,Daytime,174
+824,31,Miami-Dade County,Day Weekend Activities,Low,Daytime,90
+825,35,Miami-Dade County,Beach,Medium,Daytime,147
+826,35,Miami-Dade County,Beach,High,Daytime,289
+827,32,Miami-Dade County,Fitness,High,Daytime,275
+828,32,Miami-Dade County,Beach,High,Nighttime,177
+829,31,Miami-Dade County,Fitness,Medium,Both,172
+830,33,Miami-Dade County,Fitness,High,Both,101
+831,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,251
+832,35,Miami-Dade County,Day Weekend Activities,High,Daytime,213
+833,33,Miami-Dade County,Day Weekend Activities,Medium,Both,104
+834,34,Miami-Dade County,Beach,Low,Both,264
+835,35,Miami-Dade County,Beach,Low,Daytime,164
+836,35,Miami-Dade County,Trips Outside Miami,High,Both,134
+837,32,Miami-Dade County,Beach,Medium,Daytime,330
+838,30,Miami-Dade County,Beach,Medium,Both,223
+839,30,Miami-Dade County,Fitness,Medium,Both,246
+840,34,Miami-Dade County,Beach,Low,Daytime,303
+841,34,Miami-Dade County,Beach,High,Both,299
+842,35,Miami-Dade County,Beach,High,Nighttime,258
+843,31,Miami-Dade County,Day Weekend Activities,Low,Both,198
+844,32,Miami-Dade County,Beach,High,Daytime,344
+845,32,Miami-Dade County,Day Weekend Activities,Medium,Both,229
+846,35,Miami-Dade County,Trips Outside Miami,Low,Daytime,294
+847,33,Miami-Dade County,Trips Outside Miami,High,Daytime,276
+848,31,Miami-Dade County,Day Weekend Activities,Low,Daytime,121
+849,35,Miami-Dade County,Nightlife,High,Both,132
+850,31,Miami-Dade County,Fitness,High,Both,330
+851,31,Miami-Dade County,Fitness,Medium,Both,374
+852,31,Miami-Dade County,Fitness,Low,Both,350
+853,35,Miami-Dade County,Day Weekend Activities,High,Daytime,202
+854,32,Miami-Dade County,Trips Outside Miami,High,Daytime,345
+855,32,Miami-Dade County,Fitness,Medium,Daytime,108
+856,31,Miami-Dade County,Nightlife,Medium,Daytime,114
+857,33,Miami-Dade County,Fitness,Medium,Daytime,85
+858,30,Miami-Dade County,Nightlife,High,Daytime,190
+859,35,Miami-Dade County,Beach,High,Daytime,373
+860,30,Miami-Dade County,Fitness,High,Daytime,156
+861,33,Miami-Dade County,Beach,Medium,Daytime,226
+862,35,Miami-Dade County,Fitness,High,Daytime,146
+863,31,Miami-Dade County,Fitness,High,Both,87
+864,32,Miami-Dade County,Fitness,Low,Both,201
+865,30,Miami-Dade County,Trips Outside Miami,High,Both,254
+866,34,Miami-Dade County,Beach,Low,Daytime,258
+867,34,Miami-Dade County,Fitness,Medium,Daytime,164
+868,33,Miami-Dade County,Day Weekend Activities,Medium,Both,124
+869,31,Miami-Dade County,Day Weekend Activities,High,Daytime,215
+870,30,Miami-Dade County,Fitness,High,Daytime,95
+871,31,Miami-Dade County,Beach,Medium,Daytime,274
+872,30,Miami-Dade County,Fitness,Medium,Daytime,88
+873,33,Miami-Dade County,Fitness,Medium,Daytime,395
+874,33,Miami-Dade County,Day Weekend Activities,High,Daytime,94
+875,34,Miami-Dade County,Fitness,Medium,Nighttime,181
+876,31,Miami-Dade County,Beach,Medium,Daytime,305
+877,35,Miami-Dade County,Day Weekend Activities,Medium,Daytime,357
+878,34,Miami-Dade County,Fitness,Medium,Both,192
+879,31,Miami-Dade County,Beach,Medium,Daytime,80
+880,34,Miami-Dade County,Fitness,Medium,Daytime,345
+881,35,Miami-Dade County,Nightlife,High,Both,287
+882,32,Miami-Dade County,Beach,High,Daytime,189
+883,32,Miami-Dade County,Trips Outside Miami,High,Daytime,279
+884,32,Miami-Dade County,Beach,High,Daytime,385
+885,32,Miami-Dade County,Fitness,High,Daytime,91
+886,30,Miami-Dade County,Day Weekend Activities,High,Nighttime,267
+887,32,Miami-Dade County,Nightlife,High,Both,233
+888,35,Miami-Dade County,Day Weekend Activities,High,Daytime,358
+889,33,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,250
+890,33,Miami-Dade County,Trips Outside Miami,Low,Nighttime,213
+891,30,Miami-Dade County,Fitness,High,Daytime,104
+892,32,Miami-Dade County,Fitness,Low,Nighttime,97
+893,32,Miami-Dade County,Day Weekend Activities,High,Daytime,269
+894,32,Miami-Dade County,Beach,High,Daytime,220
+895,34,Miami-Dade County,Trips Outside Miami,High,Daytime,122
+896,31,Miami-Dade County,Nightlife,High,Daytime,363
+897,34,Miami-Dade County,Beach,Medium,Daytime,225
+898,31,Miami-Dade County,Fitness,Medium,Both,394
+899,32,Miami-Dade County,Trips Outside Miami,High,Daytime,398
+900,32,Miami-Dade County,Fitness,High,Daytime,171
+901,34,Miami-Dade County,Trips Outside Miami,High,Daytime,258
+902,34,Miami-Dade County,Beach,High,Both,135
+903,31,Miami-Dade County,Day Weekend Activities,High,Nighttime,234
+904,33,Miami-Dade County,Fitness,High,Nighttime,239
+905,31,Miami-Dade County,Day Weekend Activities,Medium,Both,190
+906,34,Miami-Dade County,Beach,Low,Both,216
+907,35,Miami-Dade County,Day Weekend Activities,High,Daytime,311
+908,34,Miami-Dade County,Fitness,Low,Nighttime,299
+909,35,Miami-Dade County,Day Weekend Activities,High,Both,147
+910,30,Miami-Dade County,Trips Outside Miami,High,Both,381
+911,34,Miami-Dade County,Fitness,High,Both,328
+912,30,Miami-Dade County,Fitness,Medium,Daytime,85
+913,33,Miami-Dade County,Fitness,Low,Daytime,359
+914,31,Miami-Dade County,Day Weekend Activities,Medium,Daytime,173
+915,35,Miami-Dade County,Day Weekend Activities,High,Both,348
+916,31,Miami-Dade County,Beach,Medium,Daytime,276
+917,30,Miami-Dade County,Fitness,High,Daytime,104
+918,35,Miami-Dade County,Beach,Low,Both,227
+919,31,Miami-Dade County,Day Weekend Activities,High,Daytime,197
+920,34,Miami-Dade County,Beach,High,Both,145
+921,32,Miami-Dade County,Nightlife,Medium,Daytime,380
+922,30,Miami-Dade County,Fitness,Medium,Daytime,254
+923,31,Miami-Dade County,Day Weekend Activities,High,Daytime,398
+924,30,Miami-Dade County,Beach,Medium,Both,155
+925,30,Miami-Dade County,Beach,High,Daytime,193
+926,35,Miami-Dade County,Day Weekend Activities,Medium,Daytime,190
+927,35,Miami-Dade County,Day Weekend Activities,Medium,Both,328
+928,32,Miami-Dade County,Nightlife,Medium,Daytime,282
+929,34,Miami-Dade County,Fitness,Medium,Nighttime,226
+930,30,Miami-Dade County,Fitness,High,Nighttime,114
+931,31,Miami-Dade County,Day Weekend Activities,High,Daytime,388
+932,33,Miami-Dade County,Day Weekend Activities,Medium,Nighttime,105
+933,30,Miami-Dade County,Fitness,High,Daytime,317
+934,30,Miami-Dade County,Fitness,High,Nighttime,93
+935,32,Miami-Dade County,Fitness,High,Daytime,124
+936,34,Miami-Dade County,Trips Outside Miami,High,Nighttime,295
+937,33,Miami-Dade County,Fitness,Medium,Daytime,312
+938,35,Miami-Dade County,Beach,High,Nighttime,272
+939,35,Miami-Dade County,Fitness,Medium,Daytime,130
+940,31,Miami-Dade County,Beach,High,Daytime,293
+941,33,Miami-Dade County,Fitness,High,Daytime,230
+942,35,Miami-Dade County,Beach,High,Daytime,354
+943,31,Miami-Dade County,Fitness,High,Both,155
+944,34,Miami-Dade County,Trips Outside Miami,High,Daytime,299
+945,31,Miami-Dade County,Fitness,Medium,Both,266
+946,35,Miami-Dade County,Beach,High,Both,368
+947,32,Miami-Dade County,Trips Outside Miami,Medium,Nighttime,107
+948,32,Miami-Dade County,Day Weekend Activities,High,Daytime,259
+949,32,Miami-Dade County,Beach,High,Daytime,332
+950,35,Miami-Dade County,Beach,Medium,Both,205
+951,32,Miami-Dade County,Beach,High,Daytime,256
+952,33,Miami-Dade County,Day Weekend Activities,High,Daytime,116
+953,34,Miami-Dade County,Nightlife,High,Nighttime,178
+954,31,Miami-Dade County,Day Weekend Activities,High,Both,177
+955,31,Miami-Dade County,Beach,Medium,Both,206
+956,35,Miami-Dade County,Day Weekend Activities,High,Daytime,247
+957,32,Miami-Dade County,Beach,Medium,Nighttime,159
+958,32,Miami-Dade County,Fitness,Low,Daytime,373
+959,30,Miami-Dade County,Beach,High,Daytime,205
+960,34,Miami-Dade County,Nightlife,Low,Both,389
+961,33,Miami-Dade County,Fitness,High,Daytime,229
+962,31,Miami-Dade County,Day Weekend Activities,Low,Daytime,95
+963,30,Miami-Dade County,Fitness,High,Daytime,107
+964,30,Miami-Dade County,Beach,Medium,Both,252
+965,35,Miami-Dade County,Fitness,High,Both,125
+966,31,Miami-Dade County,Beach,High,Nighttime,315
+967,35,Miami-Dade County,Day Weekend Activities,Medium,Both,293
+968,33,Miami-Dade County,Beach,Medium,Daytime,164
+969,30,Miami-Dade County,Day Weekend Activities,High,Daytime,361
+970,30,Miami-Dade County,Trips Outside Miami,High,Daytime,311
+971,34,Miami-Dade County,Nightlife,Medium,Daytime,164
+972,33,Miami-Dade County,Fitness,Medium,Daytime,144
+973,30,Miami-Dade County,Beach,Low,Both,213
+974,33,Miami-Dade County,Fitness,Medium,Daytime,230
+975,31,Miami-Dade County,Nightlife,Low,Daytime,194
+976,32,Miami-Dade County,Nightlife,Medium,Daytime,143
+977,30,Miami-Dade County,Beach,High,Daytime,237
+978,34,Miami-Dade County,Trips Outside Miami,High,Both,156
+979,31,Miami-Dade County,Beach,Medium,Daytime,225
+980,33,Miami-Dade County,Day Weekend Activities,Medium,Daytime,304
+981,35,Miami-Dade County,Fitness,High,Both,392
+982,31,Miami-Dade County,Day Weekend Activities,High,Daytime,182
+983,30,Miami-Dade County,Fitness,Low,Daytime,380
+984,33,Miami-Dade County,Trips Outside Miami,High,Daytime,167
+985,32,Miami-Dade County,Trips Outside Miami,High,Nighttime,382
+986,31,Miami-Dade County,Day Weekend Activities,High,Both,247
+987,30,Miami-Dade County,Fitness,High,Both,249
+988,34,Miami-Dade County,Fitness,High,Daytime,214
+989,35,Miami-Dade County,Fitness,High,Both,129
+990,33,Miami-Dade County,Beach,High,Daytime,213
+991,31,Miami-Dade County,Fitness,Medium,Daytime,216
+992,31,Miami-Dade County,Nightlife,High,Daytime,324
+993,32,Miami-Dade County,Beach,Medium,Daytime,188
+994,32,Miami-Dade County,Fitness,Low,Nighttime,392
+995,34,Miami-Dade County,Beach,High,Nighttime,366
+996,35,Miami-Dade County,Beach,Medium,Both,100
+997,34,Miami-Dade County,Day Weekend Activities,High,Nighttime,169
+998,30,Miami-Dade County,Beach,Low,Nighttime,375
+999,30,Miami-Dade County,Nightlife,High,Daytime,191
+1000,34,Miami-Dade County,Beach,Medium,Daytime,380
